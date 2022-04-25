@@ -37,9 +37,3 @@
 <a href="https://instagram.com/Zero_YT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
 </p>
-## For Windows
-```bash
-git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd BaseMD-ZeroYT7
-npm install
-npm start
